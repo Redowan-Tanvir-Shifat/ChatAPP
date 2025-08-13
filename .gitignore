@@ -39,3 +39,6 @@ coverage/
 
 # Other
 *.cache
+
+# Ignore .gitignore itself
+.gitignore
